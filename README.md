@@ -2,7 +2,7 @@
 
 This project is a fully responsive eCommerce website where users can browse a catalog of products, view product details, and interact with the shopping cart. The website is designed to provide a seamless and intuitive shopping experience on both desktop and mobile devices.
 
-**Live Demo**: [View the live website](https://ecommerce-product-iota.vercel.app/)
+**Live Demo**: [View the live website](https://ecommerce-products-one.vercel.app/)
 
 ## Project Overview 🌐
 
