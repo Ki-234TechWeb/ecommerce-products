@@ -212,7 +212,7 @@ ${descrip1}
 
 document.body.appendChild(modalContainer);
 document.querySelector(".modal-container").style.display=  "flex";
-
+document.querySelector(".main").style.display=  "none";
 
 
 
@@ -525,7 +525,7 @@ totalp.innerHTML = total.toFixed(2);
     
     })
     
-    
+    document.querySelector(".main").style.display=  "block";
     
     
     }

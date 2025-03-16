@@ -789,7 +789,7 @@ color: var(--primary);
 position: absolute;
 left: 50%;
 transform: translate(-50%,90%);
-top: 10%;
+
 border-radius: 40px ;
 
 
@@ -949,13 +949,13 @@ background-color:#cfa07a ;
 
 .modal-container{
     width: 100%;
-    height: 100v;
+    height: 100vh;
 display:non ;
 flex-direction: column;
 justify-content: center;
 align-items: center;
 background-color: var(--bg);
-position:fixed;
+position:absolute;
 top: 0;
 /* left: 50%; */
 /* transform: translate(-50%,-50% ); */
